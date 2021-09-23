@@ -1277,6 +1277,9 @@ input, select, textarea {
 			width: 100%;
 			z-index: 2;
 		}
+/*		#right_text{
+		    float: right;
+		}*/
 
 			.poptrox-popup .caption h2, .poptrox-popup .caption h3, .poptrox-popup .caption h4, .poptrox-popup .caption h5, .poptrox-popup .caption h6 {
 				margin: 0 0 0.5em 0;
@@ -2048,3 +2051,11 @@ input, select, textarea {
 		#footer .copyright a {
 			color: inherit;
 		}
+
+
+
+	.right_text_custom {
+		/*display: flow-root;*/
+	    float: right;
+	    color: #ffffff;
+	}
